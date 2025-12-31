@@ -8,5 +8,5 @@ setup(
     author ='Agam Saraswat',
     author_email='saraswatagam96@gmail.com',
     packages = find_packages(),
-    install_requires = ['pandas','numpy','seaborn','scikit-learn','flask'] 
+    install_requires = ['pandas','numpy','seaborn'] 
 )
