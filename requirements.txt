@@ -1,8 +1,7 @@
 numpy
 pandas
 seaborn
-matplotlib
-scikit-learn
+
 
 -e .
 
